@@ -52,7 +52,3 @@ Each topic is implemented as a standalone program with its own set of functional
 ## Contributing
 
 Contributions to this project are welcome. If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
