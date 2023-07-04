@@ -62,5 +62,4 @@ def compare_num():
             break
 
 
->>>>>>> 7a71a8de86cd10c739e5b02e58e792c58b8ac4ed
 compare_num()
